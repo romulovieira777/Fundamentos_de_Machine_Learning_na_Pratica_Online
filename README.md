@@ -1,2 +1,6 @@
-# Fundamentos_de_Machine_Learning_na_Pratica_Online
-Curso de Fundamentos de Machine Learning na Prática (online) na Impacta
+# Fundamentos de Machine Learning na Prática (online) 🤖🎲☁️⚙️🤯👨🏻‍💻🐍
+## Curso de Fundamentos de Machine Learning na Prática (online) na [Impacta]()
+#### 💻 Temas abordados durante o curso foram: 🚀
+
+
+Link para o curso: [Impacta]()
