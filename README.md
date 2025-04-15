@@ -6,6 +6,6 @@
 - [Sobre o Material de Apoio](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Sobre_o_Material_de_Apoio)
 - ["Aula 01 - Introdução ao Machine Learning](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_01_Introducao_ao_Machine_Learning)
 - [Aula 02 - Aprendizagem Supervisionada](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_02_Aprendizagem_Supervisionada)
-- [Aula 03 - KNN]()
+- [Aula 03 - KNN](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_03_KNN)
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/fundamentos-de-machine-learning-na-pratica-online)
