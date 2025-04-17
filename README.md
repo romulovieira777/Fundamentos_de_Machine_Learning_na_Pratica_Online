@@ -9,6 +9,6 @@
 - [Aula 03 - KNN](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_03_KNN)
 - [Aula 04 - Árvore de Deceisão](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_04_Arvore_de_Deceisao)
 - [Aula 05 - Regressão Linear](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_05_Regressao_Linear)
-- []()
+- [Aula 06 - Árvore de Regressão]()
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/fundamentos-de-machine-learning-na-pratica-online)
