@@ -11,6 +11,6 @@
 - [Aula 05 - Regressão Linear](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_05_Regressao_Linear)
 - [Aula 06 - Árvore de Regressão](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_06_Arvore_de_Regressao)
 - [Aula 07 - Aprendizagem não Supervisionada](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_07_Aprendizagem_nao_Supervisionada)
-- [Aula 08 - Agrupamento]()
+- [Aula 08 - Agrupamento](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_08_Agrupamento)
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/fundamentos-de-machine-learning-na-pratica-online)
