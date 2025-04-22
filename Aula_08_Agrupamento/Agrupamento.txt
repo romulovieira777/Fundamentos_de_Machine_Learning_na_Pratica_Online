@@ -1,0 +1,2 @@
+Agrupamento
+https://www.datacamp.com/pt/blog/clustering-in-machine-learning-5-essential-clustering-algorithms
