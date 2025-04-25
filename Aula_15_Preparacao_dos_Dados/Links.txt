@@ -1,0 +1,2 @@
+Preparação dos Dados
+https://www.pecan.ai/blog/data-preparation-for-machine-learning/
