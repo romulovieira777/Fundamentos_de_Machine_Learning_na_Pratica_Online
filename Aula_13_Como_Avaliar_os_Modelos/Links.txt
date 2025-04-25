@@ -1,0 +1,2 @@
+Como Avaliar os Modelos
+https://medium.com/data-hackers/principais-m%C3%A9tricas-de-classifica%C3%A7%C3%A3o-de-modelos-em-machine-learning-94eeb4b40ea9
