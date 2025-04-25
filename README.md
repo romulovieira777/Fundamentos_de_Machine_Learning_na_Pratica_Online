@@ -17,6 +17,6 @@
 - [Aula 11 - Algoritmo Apriori](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_11_Algoritmo_Apriori)
 - [Aula 12 - Outros Tipos de Aprendizagem](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_12_Outros_Tipos_de_Aprendizagem)
 - [Aula 13 - Como Avaliar os Modelos](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_13_Como_Avaliar_os_Modelos)
-- [Aula 14 - Validação Cruzada]()
+- [Aula 14 - Validação Cruzada](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_14_Validacao_Cruzada)
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/fundamentos-de-machine-learning-na-pratica-online)
