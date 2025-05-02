@@ -19,6 +19,6 @@
 - [Aula 13 - Como Avaliar os Modelos](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_13_Como_Avaliar_os_Modelos)
 - [Aula 14 - Validação Cruzada](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_14_Validacao_Cruzada)
 - [Aula 15 - Preparação dos Dados](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_15_Preparacao_dos_Dados)
-- [Aula 16 - Projeto]()
+- [Aula 16 - Projeto](https://github.com/romulovieira777/Fundamentos_de_Machine_Learning_na_Pratica_Online/tree/main/Aula_16_Projeto)
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/fundamentos-de-machine-learning-na-pratica-online)
